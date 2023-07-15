@@ -1,6 +1,7 @@
 - 👋 @Zaturnus/Riz
-- 🌱 Currently in school specializing in Software Engineering
+- 🌱 Grad-waiting BS Computer Science w Specialization in Software Engineering
 - 📫 Contact Me: rizze.tiad@gmail.com
+- 💼 pending...
 
 <!---
 Zaturnus/Zaturnus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
